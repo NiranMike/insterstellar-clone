@@ -1,5 +1,6 @@
 import Hero from "./components/Hero"
 import Navbar from "./components/Navbar"
+import SecondSection from "./components/SecondSection"
 
 function App() {
 
@@ -8,6 +9,7 @@ function App() {
       <div className="relative">
         <Navbar />
         <Hero />
+        <SecondSection />
       </div>
     </>
   )

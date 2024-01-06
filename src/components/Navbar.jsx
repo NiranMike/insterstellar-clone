@@ -1,6 +1,6 @@
 const Navbar = () => {
   return (
-    <nav className="sticky z-50 flex justify-center pt-6 ">
+    <nav className="fixed left-0 right-0 z-50 flex justify-center pt-6 ">
         <div className=" bg-[#ece9e936] backdrop-blur-md px-4 py-2">
             <div className="flex justify-between gap-20 items-center">
                 <a href="/">
