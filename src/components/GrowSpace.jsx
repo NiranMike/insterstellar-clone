@@ -12,7 +12,7 @@ const GrowSpace = () => {
               </Parallax>
             </div>
             
-            <div className="flex w-[1450px] justify-between absolute bottom-7 items-center left-5">
+            <div className="flex w-[95%] lg:w-[98%] justify-between absolute bottom-7 items-center left-5">
               
               <ul className=" mx-2 text-white space-y-3 text-[.8rem] bg-transparent  w-[250px] ">
                   <p className="text-[#A7A1AA]">WE COLLABORATE WITH NASA, ESA AND COMMERCIAL SPACE COMPANIES TO INSTALL AI POWERED PLANT GROWTH PODS IN SPACE.</p>

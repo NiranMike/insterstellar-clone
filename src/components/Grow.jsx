@@ -13,12 +13,14 @@ const Grow = () => {
               </Parallax>
             </div>
             
-            <div className="flex w-[1450px] justify-between absolute bottom-7 items-center left-5">
+            <div className="w-full">
               
-              <ul className=" mx-2 text-white space-y-3 text-[.8rem] bg-transparent  w-[250px] ">
+              <div className="flex w-[95%] lg:w-[98%] justify-between absolute bottom-7 items-center left-5">
+                <ul className=" mx-2 text-white space-y-3 text-[.8rem] bg-transparent  w-[250px] ">
                   <p className="text-[#A7A1AA]">WE DEVELOP BIOFARMING PLATFORMS LEVERAGING POWER OF AI AND CONTROLLED-ENVIRONMENT TO ACCELERATE THE PRODUCTION OF PLANTS SECONDARY METABOLITES. </p>
               </ul>
-              <button className=" bg-white px-5 py-3 text-xs font-semibold hover:text-white hover:bg-black text-black cursor-pointer">Discover More</button>
+              <div className=" bg-white px-5 py-3 text-xs font-semibold hover:text-white hover:bg-black text-black cursor-pointer">Discover More</div>
+              </div>
             </div>
         </div>
   )
