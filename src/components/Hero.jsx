@@ -7,6 +7,7 @@ const Hero = () => {
           <li className="list-disc">GROWING LIFE ANYWHERE</li>
           <p className="text-[#A7A1AA]">WE REVOLUTIONIZE PRODUCTION OF PLANT-BASED INGREDIENTS ON EARTH AND IN SPACE.</p>
         </ul>
+        
     </div>
   )
 }
